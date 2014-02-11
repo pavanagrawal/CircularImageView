@@ -1,7 +1,9 @@
 CircularImageView
 =================
 
-<<<<<<< HEAD
+Source : git@github.com:lopspower/CircularImageView.git
+
+
 This is an Android project allowing to realize a circular ImageView in the simplest way possible.
 
 Image Result
@@ -58,4 +60,6 @@ I realized this project using this post:
 * [How to add a shadow and a border on circular imageView android?](http://stackoverflow.com/q/17655264/1832221)
 =======
 to draw a circular image
->>>>>>> 0d031213c533023c4c314e4d6d85beb9576e8b46
+
+
+
